@@ -8,26 +8,31 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.nav-fixed{
+.ul{
     padding: 30px;
     position: fixed;
     position: relative;
-    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
     height: 30px;
     margin: 4px;
     width: 100px; 
     background-color: red;  
     margin-right: 0 auto;
+    text-decoration-color: white;
+    list-style: none;
+    
 }
 
 
-div.one{
-    text-align: center;
-    color: white;
-    background-color: teal;
+li{
+    text-align: right;
+    background-color: rgb(238, 16, 16);
+    list-style: none;
+    border-radius: 5% white solid;
 }
 
-#two{
+
+
 
 }
 
