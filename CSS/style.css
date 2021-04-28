@@ -8,41 +8,23 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.ul{
-    padding: 30px;
-    position: fixed;
-    position: relative;
-    border-radius: 10px 10px 10px 10px;
-    height: 30px;
-    margin: 4px;
-    width: 100px; 
-    background-color: red;  
-    margin-right: 0 auto;
-    text-decoration-color: white;
-    list-style: none;
-    
+
+
+#buttonmargin{
+    border-radius: 10px;
+    padding: 5px 8px;
+    font-size: 12px;
+    border-width: 1px;
+    border-style: solid;
+    margin: right;
 }
 
-
-li{
-    text-align: right;
-    background-color: rgb(238, 16, 16);
-    list-style: none;
-    border-radius: 5% white solid;
+nav{
+        padding: 20px 50px;
+        background-color: rgb(247, 6, 6);
+        text-align: right;
+        
 }
-
-
-
-
-}
-
-
-#three{
-
-}
-
-
-
 
 .container-red{
     background-color: rgb(245, 9, 9);
